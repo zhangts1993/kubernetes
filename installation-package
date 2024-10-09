@@ -1,1 +1,1 @@
-kubeedge/installation-package:v1.12.7
+FROM kubeedge/installation-package:v1.12.7
